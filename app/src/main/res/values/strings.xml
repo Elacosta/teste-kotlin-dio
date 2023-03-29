@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">appDIO</string>
+    <string name="hello" translatable="false">Olá, este é meu teste de internacionalização!</string>
+</resources>
